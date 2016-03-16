@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'pg',           '0.18.4'
 gem 'rails',        '4.2.5'
+gem 'carrierwave',  '0.10.0'
 gem 'sass-rails',   '5.0.4'
 gem 'uglifier',     '2.7.2'
 gem 'coffee-rails', '4.1.1'
